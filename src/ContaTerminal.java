@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContaBanco {
+public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         var sc = new Scanner(System.in);
       System.out.println("Por favor, digite o número da Agência !");
